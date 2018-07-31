@@ -1,11 +1,14 @@
+body {
+  background-color: #7FDBFF;
+}
 .center {
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
-  width: 300px
+  width: 300px;
 }
 
 button {
-  border: solid:
-  
+  border: solid;
+
 }
